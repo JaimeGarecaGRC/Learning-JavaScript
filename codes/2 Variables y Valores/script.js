@@ -12,7 +12,7 @@ console.log("Jaime");
 console.log(39 + false); //esto nos dara 40, por que? porque al ser una suma de valores lo tomaria como true === 1 y false === 0
 
 //Las variables son espacios reservados en memoria para que guardemos valores y seran guardados bajo un nombre.
-//TipoDeDato NombreDeLaVariable = ValorDeLaVarlable;
+//ClaseDeVariable NombreDeLaVariable = ValorDeLaVarlable;
 let firstName = "Jaime" //let es usado cuando se va a declarar una variable cuyo valor va a cambiar a medida que pase el tiempo.
 const lastName = "Gareca"; //const es usado en variables cuyo valor no va a cambiar a traves del tiempo
 
